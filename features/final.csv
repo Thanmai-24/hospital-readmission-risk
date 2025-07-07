@@ -1,0 +1,11 @@
+Age,Length_of_Stay,Gender,Number_of_Procedures,Readmission,Diagnosis_Group_E11,Diagnosis_Group_F32,Diagnosis_Group_I10,Diagnosis_Group_J20,Diagnosis_Group_M54,Diagnosis_Group_N39,Diagnosis_Group_R07,Age_Group_18-30,Age_Group_31-45,Age_Group_46-60,Age_Group_61-75,Age_Group_76-89
+85,14.0,1.0,4,1,True,False,False,False,False,False,False,False,False,False,False,True
+82,10.0,0.0,3,1,True,False,False,False,False,False,False,False,False,False,False,True
+79,,,3,1,True,False,False,False,False,False,False,False,False,False,False,True
+65,10.0,1.0,4,1,False,False,True,False,False,False,False,False,False,False,True,False
+60,9.0,0.0,4,1,False,True,False,False,False,False,False,False,False,True,False,False
+40,5.0,0.0,2,0,False,False,True,False,False,False,False,False,True,False,False,False
+30,3.0,1.0,1,0,False,False,False,True,False,False,False,True,False,False,False,False
+25,2.0,0.0,0,0,False,False,False,False,False,True,False,True,False,False,False,False
+28,1.0,1.0,1,0,False,False,False,False,True,False,False,True,False,False,False,False
+35,2.0,0.0,1,0,False,False,False,False,False,False,True,False,True,False,False,False

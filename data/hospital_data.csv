@@ -1,0 +1,11 @@
+Age,Length_of_Stay,Gender,Number_of_Procedures,Diagnosis_Code,Readmission
+85,14,Male,4,E11,Yes
+82,10,Female,3,E11,Yes
+79,Male,8,3,E11,Yes
+65,10,Male,4,I10,Yes
+60,9,Female,4,F32,Yes
+40,5,Female,2,I10,No
+30,3,Male,1,J20,No
+25,2,Female,0,N39,No
+28,1,Male,1,M54,No
+35,2,Female,1,R07,No
